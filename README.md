@@ -1,0 +1,1 @@
+本项目基于Jeff Hammond的STREAM项目修改，[https://github.com/jeffhammond/STREAM.git](https://github.com/jeffhammond/STREAM.git)修改的STREAM基准测试代码。修改后的代码，实现了NUMA感知的内存带宽测试工具,支持将线程绑定到特定CPU核心，并强制要求线程使用指定NUMA节点的内存，以进行性能测试。
